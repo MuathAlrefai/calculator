@@ -1,2 +1,2 @@
 # calculator
-A simple 4 operation calculator
+A simple 4 operation calculator with HTML, CSS, and JS!
